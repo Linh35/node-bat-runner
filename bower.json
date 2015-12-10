@@ -1,0 +1,10 @@
+{
+    "name": "node-bat-opener",
+    "description": "Things we do because we are lazy",
+    "dependencies": {
+        "bootstrap": "3.3.x",
+        "jquery": "2.1.x",
+        "angular": "*"
+    },
+    "private": true
+}

@@ -1,0 +1,13 @@
+{
+    "name": "yeah!",
+    "version": "10.3.1",
+
+    "dependencies": {
+        "async": "*",
+        "express": "*",
+        "lodash": "*"
+    },
+    "scripts": {
+      "postinstall": "bower install"
+    }
+}
